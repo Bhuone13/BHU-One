@@ -1,1 +1,16 @@
+# Student Performance Clustering
 
+## Project Overview
+This project applies **K-Means Clustering** to group students based on their academic performance. The goal is to cluster students into performance groups, such as high achievers and students needing improvement, based on their marks, attendance, and other relevant features. The results are displayed in a simple web application where students can check their performance cluster by entering their registration number.
+
+### Key Features:
+- **Data Collection**: Marks and attendance data are collected from students.
+- **Data Preprocessing**: Data is cleaned, normalized, and prepared for clustering.
+- **Clustering**: K-Means Clustering algorithm is used to group students based on their performance.
+- **Web Application**: Flask-based web app allows students to input their registration number and see their performance cluster.
+
+## Skills Used
+- **Python**: Programming language used for data processing and machine learning.
+- **Machine Learning**: K-Means clustering for grouping students based on performance.
+- **Web Development**: Flask framework to create a web application.
+- **Data Visualization**: Matplotlib and Seaborn for visualizing clustering results.
